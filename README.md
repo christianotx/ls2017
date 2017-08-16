@@ -3,4 +3,4 @@
 
 OBJETIVO
 
-O objetivo deste repositório é o registro de atividades relacionadas a disciplina de Leitura de Software.
+O objetivo deste repositório é registrar os trabalhos práticos desenvolvidos ao longo da disciplina de Leitura de Software.
