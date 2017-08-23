@@ -1,6 +1,6 @@
 # ls2017
 
 
-OBJETIVO
-
-O objetivo deste repositório é registrar os trabalhos práticos desenvolvidos ao longo da disciplina de Leitura de Software!
+# Leitura de Software 
+Objetivo: 
+O objeitvo do repositório é gerenciar ao longo do semestre a disciplina de Leitura de Software, incluindo trabalhos, atividades supervisionadas, entre outras. 
