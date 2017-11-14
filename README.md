@@ -8,18 +8,18 @@ Preencha (edite) o conteúdo da tabela abaixo conforme as seguintes orientaçõe
 | Aula  | nota | link | comentário  |
 |:-:|:-:|---|:-:|
 | 1  | 1 | https://github.com/christianotx/ls2017  |   |
-| 2  |   | https://github.com/christianotx/ls2017/wiki/Aula-2:-19.08.2017----Atividade-Lista-1-de-Exerc%C3%ADcio-sobre-git / https://github.com/christianotx/ls2017/wiki/Aula-2:-19.08.2017--Atividade-Lista-2-de-Exerc%C3%ADcio-sobre-git |   |
-| 3  |   |   |   |
-| 4  |   |   |   |
-| 5  |   |   |   |
-| 6  |   |   |   |
-| 7  |   |   |   |
-| 8  |   |   |   |
-| 9  |   |   |   |
-| 10  |   |   |   |
-| 11  |   |   |   |
-| 12  |   |   |   |
-| 13  |   |   |   |
-| 14  |   |   |   |
-| 15  |   |   |   |
-| 16  |   |   |   |
+| 2  | 1 | https://github.com/christianotx/ls2017/wiki/Aula-2:-19.08.2017----Atividade-Lista-1-de-Exerc%C3%ADcio-sobre-git / https://github.com/christianotx/ls2017/wiki/Aula-2:-19.08.2017--Atividade-Lista-2-de-Exerc%C3%ADcio-sobre-git |   |
+| 3  | 1 | https://github.com/christianotx/ls2017/wiki/Aula-3:-Comandos / https://github.com/christianotx/ls2017/wiki/Aula---3:--23.08.207---Atividade-Supervisionada  |   |
+| 4  | 1 | https://github.com/christianotx/ls2017/wiki/Aula-4:-26-08-2017-(substitui-aula-do-dia-29-11)---Environment |   |
+| 5  | 1 | https://github.com/christianotx/ls2017/wiki/Aula-5:-30-08-2017 / https://github.com/christianotx/ls2017/wiki/Aula-5:-30-08-2017---Atividades-supervisionadas  |   |
+| 6  | 1 | https://github.com/christianotx/ls2017/wiki/Aula-6:-06-09-2017---Atividade-Supervisionada  |   |
+| 7  | 0 | https://github.com/christianotx/ls2017/wiki/Aula-7:-13-09-2017---ThoughtWorks  |   |
+| 8  | 1 | https://github.com/christianotx/ls2017/wiki/Aula-8:-20-09-2017---TecnologiasThoughtworks  |   |
+| 9  | 1 | https://github.com/christianotx/ls2017/wiki/Aula-9:-27-09-2017 / https://github.com/christianotx/ls2017/tree/master/analise-estatica / https://github.com/christianotx/ls2017/tree/master/analise-estatica_2  |   |
+| 10 | 0 |   |   |
+| 11 | 1 | https://github.com/christianotx/ls2017/wiki/Aula-11:-11-10-2017---Arquitetura   |   |
+| 12 | 1 | https://github.com/christianotx/ls2017/wiki/Aula-12:-18-10-2017---visualvm  |   |
+| 13 | 1 | https://github.com/christianotx/ls2017/wiki/Aula-13:-25-10-2017---sonarcloud  |   |
+| 14 | 0 | https://github.com/christianotx/ls2017/wiki/Aula-14:-01-11-2017---softvis3d  |   |
+| 15 | 1 | https://github.com/christianotx/ls2017/wiki/Aula-15:-08-11-2017  |   |
+| 16 |   |   |   |
