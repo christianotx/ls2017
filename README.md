@@ -8,8 +8,7 @@ Preencha (edite) o conteúdo da tabela abaixo conforme as seguintes orientaçõe
 | Aula  | nota | link | comentário  |
 |:-:|:-:|---|:-:|
 | 1  | 1 | https://github.com/christianotx/ls2017  |   |
-| 2  |   | https://github.com/christianotx/ls2017/wiki/Aula-2:-19.08.2017----Atividade-Lista-1-de-Exerc%C3%ADcio-sobre-git 
-https://github.com/christianotx/ls2017/wiki/Aula-2:-19.08.2017--Atividade-Lista-2-de-Exerc%C3%ADcio-sobre-git |   |
+| 2  |   | https://github.com/christianotx/ls2017/wiki/Aula-2:-19.08.2017----Atividade-Lista-1-de-Exerc%C3%ADcio-sobre-git / https://github.com/christianotx/ls2017/wiki/Aula-2:-19.08.2017--Atividade-Lista-2-de-Exerc%C3%ADcio-sobre-git |   |
 | 3  |   |   |   |
 | 4  |   |   |   |
 | 5  |   |   |   |
