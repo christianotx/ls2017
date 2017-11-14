@@ -8,7 +8,7 @@ Preencha (edite) o conteúdo da tabela abaixo conforme as seguintes orientaçõe
 | Aula  | nota | link | comentário  |
 |:-:|:-:|---|:-:|
 | 1  | 1 | https://github.com/christianotx/ls2017  |   |
-| 2  | 1 | https://github.com/christianotx/ls2017/wiki/Aula-2:-19.08.2017----Atividade-Lista-1-de-Exerc%C3%ADcio-sobre-git                            https://github.com/christianotx/ls2017/wiki/Aula-2:-19.08.2017--Atividade-Lista-2-de-Exerc%C3%ADcio-sobre-git |   |
+| 2  | 1 | https://github.com/christianotx/ls2017/wiki/Aula-2:-19.08.2017----Atividade-Lista-1-de-Exerc%C3%ADcio-sobre-git                                                                                                             https://github.com/christianotx/ls2017/wiki/Aula-2:-19.08.2017--Atividade-Lista-2-de-Exerc%C3%ADcio-sobre-git |   |
 | 3  | 1 | https://github.com/christianotx/ls2017/wiki/Aula-3:-Comandos   https://github.com/christianotx/ls2017/wiki/Aula---3:--23.08.207---Atividade-Supervisionada  |   |
 | 4  | 1 | https://github.com/christianotx/ls2017/wiki/Aula-4:-26-08-2017-(substitui-aula-do-dia-29-11)---Environment |   |
 | 5  | 1 | https://github.com/christianotx/ls2017/wiki/Aula-5:-30-08-2017   https://github.com/christianotx/ls2017/wiki/Aula-5:-30-08-2017---Atividades-supervisionadas  |   |
